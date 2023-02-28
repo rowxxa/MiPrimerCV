@@ -1,0 +1,79 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+
+body{
+    background-color: gray;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
+
+.image-profile{  
+
+    margin-left: 38%; margin-top: 3%; margin-bottom: 3%;
+
+}
+
+
+a:link{
+        color: blue;
+        text-decoration: underline;
+    }
+a:visited{
+        color:rebeccapurple;
+        text-decoration: underline;
+    }
+a:hover{
+        color: aqua;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    hr
+    {font-weight: bolder;}
+    
+p
+{text-align: justify;}
+
+header
+{background-color: lightcyan;
+border: 10px solid black;}
+
+nav 
+{background-color: lightcyan;
+border: 5px solid black;
+
+}
+nav ul li{
+align-items: center;
+text-align: center;
+font-size: large;
+}
+
+.menu{
+    list-style: none;
+}
+
+footer{
+font-size: smaller;
+text-align: center;}
+
+.subtitulo{
+    text-align: center;
+}
+
+.article{
+    font-size: larger;
+    text-align: center;
+}
+
+#spoty{
+height: 30px;
+width: auto;
+}
